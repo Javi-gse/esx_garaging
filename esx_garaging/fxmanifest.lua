@@ -11,6 +11,7 @@ client_scripts {
 	-- Translations
 	'Translations/EN.lua',
 	'Translations/NL.lua',
+	'Translations/ES.lua',
 	-- Code
 	'Client/Main.lua',
 }
@@ -21,6 +22,7 @@ server_scripts {
 	-- Translations
 	'Translations/EN.lua',
 	'Translations/NL.lua',
+	'Translations/ES.lua',
 	-- Database
 	'@mysql-async/lib/MySQL.lua',
 	-- Code
